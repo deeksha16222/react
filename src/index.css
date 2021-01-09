@@ -1,0 +1,28 @@
+*{
+  background-color: #868686;
+  padding: 12px 16px;
+}
+
+button{
+  padding: 10px 12px;
+  margin:0 auto;
+  font-family: "sans-serif";
+  text-transform: "uppercase";
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  color: white;
+  background-color: purple;
+  outline: none;
+  border: 1px solid;
+}
+
+
+.title{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: "sans-serif";
+    background-color: #fff;
+}
